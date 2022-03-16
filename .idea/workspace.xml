@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a2d6568-1bf4-4fa2-a3b1-8067410dfe08" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/stars2 copie.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/stars2.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/stars2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,8 +55,17 @@
       <workItem from="1647340374992" duration="4000" />
       <workItem from="1647340396097" duration="18860000" />
       <workItem from="1647428157963" duration="19082000" />
-      <workItem from="1647450936916" duration="12065000" />
+      <workItem from="1647450936916" duration="16105000" />
+      <workItem from="1647471972464" duration="2877000" />
     </task>
+    <task id="LOCAL-00001" summary="Pratiquement fini">
+      <created>1647464080328</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1647464080328</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,5 +73,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Pratiquement fini" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pratiquement fini" />
   </component>
 </project>
